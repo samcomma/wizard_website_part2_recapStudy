@@ -1,3 +1,4 @@
+/*
 const data = [
   { id: 1, upvotes: 257, title: "Fianto Duri, the complete tutorial", content: "Fianto Duri is a charm that was created to be combined with protective spells (Can be used with another person's shield spell)(When used on something else creates a explosion). As we already knows the (i.e.) Shield Charm needs the caster to stay focused on the spell in order to continue protecting him, so Fianto Duri allows the caster to keep a charm “alive” while he does some other work or casts some other spells.", name: "RubeusH", date: new Date(Date.now() - 15000000) },
   { id: 2, upvotes: 221, title: "Untransfiguration classes to become compulsory at Hogwarts", content: "Learning untransfiguration is going to be mandatory at Hogwarts School of Witchcraft and Wizardry from 2017 onward. Untransfiguration will be covered in beginner-level spellbooks such as A Beginner's Guide to Transfiguration. Failure to at least attempt to untranfigure a wrongly-done transfiguration will be considered irresponsible.", name: "Baddock", date: new Date(Date.now() - 90000000) },
@@ -25,3 +26,4 @@ const find = (id) => {
 }
 
 module.exports = { list: list, find: find };
+*/
